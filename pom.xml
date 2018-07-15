@@ -26,12 +26,7 @@
             <artifactId>javax.servlet-api</artifactId>
             <version>3.1.0</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.objectweb.asm/com.springsource.org.objectweb.asm -->
-        <dependency>
-            <groupId>org.objectweb.asm</groupId>
-            <artifactId>com.springsource.org.objectweb.asm</artifactId>
-            <version>3.2.0</version>
-        </dependency>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
